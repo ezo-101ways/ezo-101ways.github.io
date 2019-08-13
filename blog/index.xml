@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luca - the current account for marketplace sellers</title>
-    <link>https://joinluca.com/</link>
-    <description>Recent content on Luca - the current account for marketplace sellers</description>
+    <title>Blog on Luca - the current account for marketplace sellers</title>
+    <link>https://joinluca.com/blog/</link>
+    <description>Recent content in Blog on Luca - the current account for marketplace sellers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 12 Aug 2019 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 12:35:54 +0100</lastBuildDate>
     
-	<atom:link href="https://joinluca.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joinluca.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

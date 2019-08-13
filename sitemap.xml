@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://joinluca.com/categories/</loc>
+    <loc>https://joinluca.com/</loc>
+    <lastmod>2019-08-12T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joinluca.com/</loc>
+    <loc>https://joinluca.com/blog/what-is-luca/</loc>
+    <lastmod>2019-08-12T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joinluca.com/blog/</loc>
+    <lastmod>2019-08-10T12:35:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joinluca.com/categories/</loc>
     <priority>0</priority>
   </url>
   
